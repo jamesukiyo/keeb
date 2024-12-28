@@ -1,6 +1,9 @@
 ### keyboard config :)
 
-Corne v4
+Corne v4 (3x6 +3)
 
 
-not perfect yet
+First split + first 40% so I'm experimenting a lot
+
+
+far from perfect right now lol
